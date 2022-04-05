@@ -1,4 +1,8 @@
-Hi there 👋
+Hello 👋,
+
+I write software development related blog posts and play around with open source software.
+
+<!-- [Blog](//blog.hao.dev) -->
 
 <!--
 **h-dong/h-dong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Blog posts
+## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Becoming an interview engineer](https://blog.hao.dev/becoming-an-interview-engineer)
 - [Software field salary guide for looking for a new job in 2022](https://blog.hao.dev/software-field-salary-guide-for-looking-for-a-new-job-in-2022)
