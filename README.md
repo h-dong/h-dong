@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to add SCSS or SASS to SvelteKit](https://blog.hao.dev/how-to-add-scss-or-sass-to-sveltekit)
 - [The best programming language to use in coding interviews](https://blog.hao.dev/the-best-programming-language-to-use-in-coding-interviews)
 - [Becoming an interview engineer](https://blog.hao.dev/becoming-an-interview-engineer)
 - [Software field salary guide for looking for a new job in 2022](https://blog.hao.dev/software-field-salary-guide-for-looking-for-a-new-job-in-2022)
 - [How to run third party applications securely on the same domain?](https://blog.hao.dev/how-to-run-third-party-applications-securely-on-the-same-domain)
-- [How to fix Jest and Mock Service Worker integration errors](https://blog.hao.dev/how-to-fix-jest-and-mock-service-worker-integration-errors)
 <!-- BLOG-POST-LIST:END -->
