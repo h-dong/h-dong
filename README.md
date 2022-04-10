@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Setting up ZSH with VS Code on Apple silicon Mac &lpar;M1 chip&rpar;](https://blog.hao.dev/setting-up-zsh-with-vs-code-on-apple-silicon-mac-m1-chip)
 - [Setting up Vitest within SvelteKit repo](https://blog.hao.dev/setting-up-vitest-within-sveltekit-repo)
 - [How to add SCSS or SASS to SvelteKit](https://blog.hao.dev/how-to-add-scss-or-sass-to-sveltekit)
 - [The best programming language to use in coding interviews](https://blog.hao.dev/the-best-programming-language-to-use-in-coding-interviews)
 - [Becoming an interview engineer](https://blog.hao.dev/becoming-an-interview-engineer)
-- [Software field salary guide for looking for a new job in 2022](https://blog.hao.dev/software-field-salary-guide-for-looking-for-a-new-job-in-2022)
 <!-- BLOG-POST-LIST:END -->
