@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Fixing esbuild related CPU architecture error on Apple silicon Macs](https://blog.hao.dev/fixing-esbuild-related-cpu-architecture-error-on-apple-silicon-macs)
 - [What I learned about JS Date from writing a simple date library](https://blog.hao.dev/what-i-learned-about-js-date-from-writing-a-simple-date-library)
 - [Setting up ZSH with VS Code on Apple silicon Mac &lpar;M1 chip&rpar;](https://blog.hao.dev/setting-up-zsh-with-vs-code-on-apple-silicon-mac-m1-chip)
 - [Setting up Vitest within SvelteKit repo](https://blog.hao.dev/setting-up-vitest-within-sveltekit-repo)
 - [How to add SCSS or SASS to SvelteKit](https://blog.hao.dev/how-to-add-scss-or-sass-to-sveltekit)
-- [The best programming language to use in coding interviews](https://blog.hao.dev/the-best-programming-language-to-use-in-coding-interviews)
 <!-- BLOG-POST-LIST:END -->
