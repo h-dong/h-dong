@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Reflecting on AI Dev Tools in 2024](https://blog.hao.dev/reflecting-on-ai-dev-tools-in-2024)
 - [GraphQL at scale: schema stitching v.s. schema federation](https://blog.hao.dev/graphql-at-scale-schema-stitching-v-s-schema-federation)
 - [A web dev engineer&#39;s review: Learning Swift using ChatGPT](https://blog.hao.dev/a-web-dev-engineer-s-review-learning-swift-using-chatgpt)
 - [When is GraphQL the right choice for your Project or Business?](https://blog.hao.dev/when-is-graphql-the-right-choice-for-your-project-or-business)
 - [Fixing esbuild related CPU architecture error on Apple silicon Macs](https://blog.hao.dev/fixing-esbuild-related-cpu-architecture-error-on-apple-silicon-macs)
-- [What I learned about JS Date from writing a simple date library](https://blog.hao.dev/what-i-learned-about-js-date-from-writing-a-simple-date-library)
 <!-- BLOG-POST-LIST:END -->
